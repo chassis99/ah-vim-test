@@ -1,3 +1,5 @@
+// script.js
+
 document.addEventListener('DOMContentLoaded', () => {
     const portfolioItems = document.querySelectorAll('.portfolio-item a');
     const videoPlayer = document.querySelector('.video-player iframe');
